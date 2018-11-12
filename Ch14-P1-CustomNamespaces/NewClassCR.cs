@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyShapes
+namespace Ch14_P1_CustomNamespaces
 {
-    class Square
+    class NewClassCR
     {
-
     }
-    
 }

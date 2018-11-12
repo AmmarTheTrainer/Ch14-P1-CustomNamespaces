@@ -4,11 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyShapes
+namespace NewSpaceCustom
 {
-    class Square
+    class CRisNotOLD
     {
 
     }
-    
+}
+namespace NewSpaceCustom2
+{
+    class CRisNotOLD
+    {
+
+    }
 }

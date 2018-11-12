@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BAA87EB1-98FD-4EBD-B11A-363642089F06}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ch14_P1_CustomNamespaces</RootNamespace>
+    <RootNamespace>NewSpaceCustom</RootNamespace>
     <AssemblyName>Ch14-P1-CustomNamespaces</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Action.cs" />
     <Compile Include="Circle.cs" />
+    <Compile Include="CRisNotOLD.cs" />
     <Compile Include="Hexagon.cs" />
+    <Compile Include="My5DSquare.cs" />
+    <Compile Include="NewClassCR.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Square.cs" />
